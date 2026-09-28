@@ -1,0 +1,4 @@
+interface:
+  display_name: "源码深度课程编写"
+  short_description: "把真实源码写成循序渐进的详细课程，包含数据追踪、完整函数精读和实验验收"
+  default_prompt: "使用 $codebase-deep-course 将当前项目制作成详细中文课程，先追踪真实执行链，再按原理、数据、源码、实操与验证展开。"
